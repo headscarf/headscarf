@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @headscarf, in_real_life_name = 'Netanel I.'
-- 👀 I’m interested in lua,py, cpp, and anything to do with programming
+- 👋 Hi, I’m @headscarf, in_real_life_name = 'Netanel Iliesh'
+- 🇮🇱 Israeli born and raised programmer 
+- 👀 I’m interested in anything to do with programming
 - 😄 Pronouns: he/him
 
 <!---
