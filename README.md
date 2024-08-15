@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @headscarf, local in_real_life_name = 'Netanel Iliesh'
+- 👋 Hi, I’m @headscarf; local in_real_life_name = 'Netanel Iliesh'
 - 🇮🇱 Israeli born and raised programmer
 - fullstack (only backend for now lol my frotend sucks 🤣)
 
