@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @headscarf - Netanel
-- 👀 I’m interested in lua,py, cpp, anything to do with programming
+- 👋 Hi, I’m @headscarf, in_real_life_name = 'Netanel I.'
+- 👀 I’m interested in lua,py, cpp, and anything to do with programming
 - 😄 Pronouns: he/him
 
 <!---
